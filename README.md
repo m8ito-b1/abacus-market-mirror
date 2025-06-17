@@ -85,4 +85,6 @@ Remember to prioritize security at all times. Whether you’re a seller or a buy
 
 
 
-Update:  Monday 16 June 2025
+
+
+Update:  17.06.2025 05:15 Fixed broken links in documentation
