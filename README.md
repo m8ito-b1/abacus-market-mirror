@@ -87,4 +87,6 @@ Remember to prioritize security at all times. Whether you’re a seller or a buy
 
 
 
-Update:  17.06.2025 05:15 Fixed broken links in documentation
+
+
+Update: Fixed dead external links in changelog
