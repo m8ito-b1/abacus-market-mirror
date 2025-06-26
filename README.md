@@ -93,4 +93,6 @@ Remember to prioritize security at all times. Whether you’re a seller or a buy
 
 
 
-Update:  24 June 2025 Link is now reachable
+
+
+Update:  06/26/2025 Secure URLs
